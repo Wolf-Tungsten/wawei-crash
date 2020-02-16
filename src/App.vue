@@ -7,6 +7,7 @@
     <p>这个网站只是一个 vue-cli 创建的模板项目，除了一些文字展示没有其他任何逻辑</p>
     <p>我们把项目源码放置在：https://github.com/Wolf-Tungsten/wawei-crash</p>
     <p>希望有人能够解释其中的原理</p>
+    <router-view></router-view>
   </div>
 </template>
 
